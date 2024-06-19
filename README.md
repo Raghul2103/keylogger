@@ -14,5 +14,5 @@ A keylogger is an insidious form of spyware. You enter sensitive data onto your 
 > TIME : 2022/11/25 14:39:33 || KEY PRESSED : f<br/>
 > TIME : 2022/11/25 14:39:34 || KEY PRESSED : a <br/>
 > TIME : 2022/11/25 14:39:34 || KEY PRESSED : i <br/>
-> TIME : 2022/11/25 14:39:35 || KEY PRESSED : S\l <br/>
+> TIME : 2022/11/25 14:39:35 || KEY PRESSED : l <br/>
 > TIME : 2022/11/25 14:39:36 || KEY PRESSED : Space
